@@ -10,3 +10,9 @@ Este script lee un archivo `gastos.txt` con montos (uno por línea) y calcula:
    ```bash
    git clone https://github.com/Payasito95/gastos-python.git
    cd gastos-python
+
+python gastos.py
+
+
+Total de gastos: $889.50
+Promedio de gastos: $177.90
